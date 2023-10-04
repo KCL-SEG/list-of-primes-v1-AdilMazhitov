@@ -15,6 +15,6 @@ def primes(number_of_primes):
 
         primeNumber += 1 
 
-    print(list)
+    return list
 
 primes(10)
